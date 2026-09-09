@@ -70,3 +70,8 @@ warn_return_any = true
 check_untyped_defs = true
 strict = true
 warn_unreachable = true
+
+
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
